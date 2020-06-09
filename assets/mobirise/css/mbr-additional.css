@@ -851,6 +851,7 @@ section.lazy-placeholder:after {
   color: #767676;
   margin: 0;
   padding-top: 1.5rem;
+  text-align: left;
 }
 .cid-rXsX9PxnGj a:not([href]):not([tabindex]) {
   color: #fff;
