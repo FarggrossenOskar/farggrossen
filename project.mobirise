@@ -66,8 +66,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Farggrossen",
+        "meta_descr": "Nu är vår nya webshop öppen! En av Sveriges största grossister inom måleribranschen. Leverans till hela Sverige. ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -143,8 +143,8 @@
     },
     "page1.html": {
       "settings": {
-        "title": "AndraVågen",
-        "meta_descr": "",
+        "title": "Andra Vågen",
+        "meta_descr": "Andra Vågen, störst på Jotun i Kalmar. Tapeter, färg, verktyg och arbetskläder allt i samma butik på Norra Vägen 77.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
