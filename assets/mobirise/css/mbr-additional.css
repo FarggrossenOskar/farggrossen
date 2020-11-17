@@ -859,14 +859,14 @@ section.lazy-placeholder:after {
   color: #767676;
   margin: 0;
   padding-top: 1.5rem;
-  text-align: left;
+  text-align: center;
 }
 .cid-rXsX9PxnGj a:not([href]):not([tabindex]) {
   color: #fff;
   border-radius: 3px;
 }
 .cid-rXsX9PxnGj .google-map {
-  height: 25rem;
+  height: 26rem;
   position: relative;
 }
 .cid-rXsX9PxnGj .google-map iframe {
@@ -901,6 +901,12 @@ section.lazy-placeholder:after {
   .cid-rXsX9PxnGj div.left-block.wrapper {
     padding-bottom: 3rem;
   }
+}
+.cid-rXsX9PxnGj H5 {
+  text-align: center;
+}
+.cid-rXsX9PxnGj H2 {
+  text-align: center;
 }
 .cid-sdQjaJZzF6 {
   padding-top: 90px;
